@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "complex": "cpp",
+        "list": "cpp",
+        "limits": "cpp",
+        "functional": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "optional": "cpp"
+    }
+}

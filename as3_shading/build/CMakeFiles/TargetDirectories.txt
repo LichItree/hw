@@ -1,0 +1,3 @@
+/home/cs18/Desktop/as3_shading/build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/as3_shading/build/CMakeFiles/Rasterizer.dir
+/home/cs18/Desktop/as3_shading/build/CMakeFiles/edit_cache.dir
